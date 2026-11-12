@@ -1,0 +1,6 @@
+{
+  "name": "My Money Manager",
+  "description": "Personal Money Manager to track income, expenses, debts, receivables, budgets, and financial statistics in Bangla and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
